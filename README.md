@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
  
   <a href="mailto:bongnarye@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bongnarye7110@gmail.com"/>
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=bongnarye7110@gmail.com"/>
   </a>
 </p>
 
