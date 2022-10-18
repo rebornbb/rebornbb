@@ -3,6 +3,8 @@
 ![dd7c2d849aac54797168dc0002c502a1](https://user-images.githubusercontent.com/106206920/196387153-0c867f21-f676-48ba-be87-450ee0035cd0.jpg)
 
 저는 봉나례입니다.
+[네이버 바로가기](http://www.naver.com/)
+
 <br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
