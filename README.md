@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 저는 봉나례입니다.
-<img src="이미지 URL">
 <br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
