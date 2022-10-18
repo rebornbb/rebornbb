@@ -13,7 +13,8 @@
 <br>
 <hr>
 
-<br>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
 <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white">
@@ -30,3 +31,4 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
