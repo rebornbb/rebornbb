@@ -2,10 +2,10 @@
 
 저는 봉나례입니다.
 <br>
-<img src="https://img.shields.io/badge/AdobePhotoshop-E34F26?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/AdobeIllustrator-E34F26?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
-<img src="https://img.shields.io/badge/AdobeInDesign-E34F26?style=for-the-badge&logo=AdobeInDesign&logoColor=white">
-<img src="https://img.shields.io/badge/AdobePremierePro-E34F26?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
+<img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white">
+<img src="https://img.shields.io/badge/AdobePremierePro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
