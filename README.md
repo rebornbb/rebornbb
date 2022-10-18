@@ -10,6 +10,11 @@
  <a href="https://rebornbb.tistory.com"></a>
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
  
+ <a href=" https://open.kakao.com/o/ssfMykIe">
+   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white>
+  </a>
+ 
+
   <a href="mailto:bongnarye@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=bongnarye7110@gmail.com"/>
   </a>
@@ -17,7 +22,7 @@
 
 <br>
 
-<h3 align="center">⌨ Tech Stack 🖱</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
