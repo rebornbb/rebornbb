@@ -7,12 +7,12 @@
 <h3 align="center">🌈 Contact Me 🌈</h3>
 
 <p align="center">
- <a href="https://rebornbb.tistory.com"></a>
- <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+ <a href="https://rebornbb.tistory.com">
+ <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
  
- <a href=" https://open.kakao.com/o/ssfMykIe">
-   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white>
-  </a>
+ <a href="https://open.kakao.com/o/ssfMykIe">
+   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white></a>
+  
  
 
   <a href="mailto:bongnarye@gmail.com">
