@@ -3,8 +3,16 @@
 ![dd7c2d849aac54797168dc0002c502a1](https://user-images.githubusercontent.com/106206920/196387153-0c867f21-f676-48ba-be87-450ee0035cd0.jpg)
 <br>
 저는 봉나례입니다.
-[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">](https://rebornbb.tistory.com/)
+
+<h3 align="center">🌈 Contact Me 🌈</h3>
+<p align="center">
+  <a href="https://rebornbb.tistory.com/"><img src="https://img.shields.io/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>&nbsp
+  <a href="mailto:bongnarye@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+
 <br>
+<hr>
+
 <br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
