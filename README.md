@@ -4,6 +4,7 @@
 <br>
 저는 봉나례입니다.
 [네이버 바로가기](http://www.naver.com/)
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 <br>
 <br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
