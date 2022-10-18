@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">⌨ Tech Stack 🖱</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
