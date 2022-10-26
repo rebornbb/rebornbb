@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=BONGNARYE&fontSize=90)
 
-<h2 align="center">🌈 Contact Me 🌈</h3>
+<h2 align="center"  style="color:blue;">🌈 Contact Me 🌈</h3>
 
-<p align="center" style="color:blue;">
+<p align="center">
  <a href="https://rebornbb.tistory.com">
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
  
