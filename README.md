@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<h1 align="center">😄BONGNARYE😄</h1>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BONGNARYE%20render&fontSize=90)
 
 <h2 align="center">🌈 Contact Me 🌈</h3>
 
