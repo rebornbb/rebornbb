@@ -38,6 +38,7 @@
 
 <br>
 
+<h3>👩🏻‍💻 introduce me 👩🏻‍💻</h3>
 <p>
 <strong>크리에이티브 디자이너, 액티브 개발자를 꿈꾼다!</strong>  
  
