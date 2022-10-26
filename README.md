@@ -1,7 +1,7 @@
 <h1 align="center">😄BONGNARYE😄</h1>
 
 
-<h3 align="center">🌈 Contact Me 🌈</h3>
+<h2 align="center">🌈 Contact Me 🌈</h3>
 
 <p align="center">
  <a href="https://rebornbb.tistory.com">
@@ -16,7 +16,7 @@
 
 <br>
 
-<h3 align="center">💻 Tech Stack 💻</h3>
+<h2 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
@@ -38,7 +38,7 @@
 
 <br>
 
-<h3>👩🏻‍💻 introduce me 👩🏻‍💻</h3>
+<h2>👩🏻‍💻 introduce me 👩🏻‍💻</h2>
 <p>
 <strong>크리에이티브 디자이너, 액티브 개발자를 꿈꾼다!</strong>  
  
