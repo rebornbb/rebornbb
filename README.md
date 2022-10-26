@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-![dd7c2d849aac54797168dc0002c502a1](https://user-images.githubusercontent.com/106206920/196387153-0c867f21-f676-48ba-be87-450ee0035cd0.jpg)
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white](https://user-images.githubusercontent.com/106206920/196387153-0c867f21-f676-48ba-be87-450ee0035cd0.jpg"></a>
 </div>
 
 <h3 align="center">🌈 Contact Me 🌈</h3>
