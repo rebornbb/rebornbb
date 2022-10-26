@@ -1,11 +1,5 @@
-<p align="center">
-### Hi there 👋
- 저는 봉나례입니다.
-</p>
+<h1 align="center">BONGNARYE</h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white](https://user-images.githubusercontent.com/106206920/196387153-0c867f21-f676-48ba-be87-450ee0035cd0.jpg"></a>
-</div>
 
 <h3 align="center">🌈 Contact Me 🌈</h3>
 
