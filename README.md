@@ -2,7 +2,7 @@
 
 <h2 align="center">🌈 Contact Me 🌈</h3>
 
-<p align="center">
+<p align="center" style="color:blue;">
  <a href="https://rebornbb.tistory.com">
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
  
